@@ -1,0 +1,5 @@
+- 🧑🏽‍💻 Hi, I’m @DrSamus.
+- 👀 I’m interested in learning JavaScript.
+- 🌱 I’m currently learning JavaScript, PHP and SQL.
+- 💼 I’m looking to collaborate on a project.
+- 📫 How to reach me: https://www.instagram.com/samu.zz31/
