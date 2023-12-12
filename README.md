@@ -1,4 +1,4 @@
-- 🧑🏽‍💻 Hi, I’m @DrSamus.
+- 🧑🏽‍💻 Hi, I’m @Zamus.
 - 👀 I’m interested in learning JavaScript.
 - 🌱 I’m currently learning JavaScript, PHP and SQL.
 - 💼 I’m looking to collaborate on a project.
